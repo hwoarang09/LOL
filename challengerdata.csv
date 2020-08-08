@@ -1,0 +1,301 @@
+,tier,summonerId,summonerName,leaguePoints,wins,losses,veteran,inactive,freshBlood,hotStreak
+0,CHALLENGER,Xr0WKrSawcbaCHa7rm7Yx_wvINkRBmskIeLMueFV0FLHMg,내현자타임,677,550,528,False,False,True,False
+1,CHALLENGER,1n2y4L6r2e9Omp9ohJbadsPMqoQHpIWvQt1V5ELrfESjVHg,SANDBOX Muru,659,596,484,False,False,False,False
+2,CHALLENGER,2vyPu06pcrBU9ZE1aRuiVcq4Ulq2COG_Q23jiY3VN5s0qjM,주먹밥쿵야1,947,193,141,True,False,False,False
+3,CHALLENGER,k08zGdvZ8S5atwPHDHSAr0h3o0zs-xTwHudoqRNh8271H64,깡충깡충껑충껑충,665,238,179,False,False,True,False
+4,CHALLENGER,P7kqtavn1lsXrsOAP8pobwMUoxp3P31ZAhr1mBG-sn8i7DQ,EZ 4 ENCE ENCE,1009,766,726,False,False,False,False
+5,CHALLENGER,HiVDLPeMIeJWdu1AqJxdZ6oJh9YaCv01W64nDpaXhZJqX9k,T1 Roamer,878,969,921,False,False,False,True
+6,CHALLENGER,xiUMUWo_BESy6xp_uPbrSXXGpdZGwg4H85fGe7GGRUy4Tq8,나는 준일허다,662,656,600,True,False,False,False
+7,CHALLENGER,XLuPsmib6gr9czemUw0EfTV67xkCxw_QjNXzVYY_QIgxtz8,makabakar,734,775,732,False,False,True,True
+8,CHALLENGER,XpQXjJXagLlJYgoTi4nEClkSgueWAAwcjJT1mdnY8XmhtFA,xbfzcgbbmls,931,542,492,False,False,True,False
+9,CHALLENGER,JDcDSqnkROUUAmhR-KiCSuXvY11WjVFyg5znlqrrCsS8IKi4,개똥벌레a,1351,163,87,False,False,False,True
+10,CHALLENGER,Rvo0-NRsDasxtffM7zrXeq6_GzjFOISbtF4Tl4LMlcgh8X4,HYSE1275,738,448,411,False,False,False,False
+11,CHALLENGER,gN_-597Gjugo8UxBXoVR7OvJoU6U3Fizz8eZ0dyg_sq69AY,5Kld,857,159,103,False,False,False,False
+12,CHALLENGER,bUmDVe-G-xxoMajhk_D4iPNJrm4IoNkUirQfzD0Ew-sRAA0,아진짜너무졸려,724,188,144,False,False,False,False
+13,CHALLENGER,3ClPL8LqlLM4vul8Wx2ZWAu3y0lIYfa4Tj4c0BsLkr84w38,교육잘받은도구,735,350,299,False,False,False,False
+14,CHALLENGER,XBACwQ2E-g-xiSA4FY4rqfFIq5uXlIAxIH85qgTwYb5lqPo,jkjkjkjkk,707,434,389,True,False,False,True
+15,CHALLENGER,4AS6ITtrspkX2FrBURsidI6LRjGQnSBPGIhRVWJBFaYr4BQ,Destiny,1170,188,178,True,False,False,False
+16,CHALLENGER,sOHNyix7qo-rjTdybRPb89vsCxqEOwW_1vocPFR5uZ9B3Wo,KENSHIN1,690,278,235,False,False,True,True
+17,CHALLENGER,6bnO1G2VKhVtb5123Q3MKX9AFCGClq6kmS0tyXWta_WetQ,소나잔나,1365,192,120,True,False,False,True
+18,CHALLENGER,GO3B9cYy_NMPL8M6FF_jM3zvqrBlsT0JXIBVjwAqD1BELgE,lIIIllIlIIlIlIll,907,154,101,True,False,False,True
+19,CHALLENGER,KLuNodYt9P90pSN-ReZ9k3B473cBwQIy5mYXVTWmXZ3PCAE,오뚜기3분미트볼,1112,200,139,False,False,False,False
+20,CHALLENGER,dlmx0n2Pe9Sc_ySwcA7qBvVrnJNdlIgO-rUHrkp_4jAd--A,quaddd,919,220,169,False,False,False,False
+21,CHALLENGER,rKRuYsy-nM-kSg8ir42gRfFWrzQa3myPjU5tFKPESwPwUw,입대를앞둔남자,669,184,142,False,False,True,False
+22,CHALLENGER,iTFPxL-KDTHriIMoNmvLER6bgqjSa5Gv6r7bf3z4K38xs-I,MyMagicBurnYou,847,466,421,True,False,False,False
+23,CHALLENGER,7yOD2GHbsKO4EMKGrPhNQqvbYa-i8OfjTzzCV92h1OHjaCM,태기베어,808,446,395,True,False,False,False
+24,CHALLENGER,HD9rcBZnQy057eMaUpHFTsYLABNU4cnRB2XX4kO-8VVFfg,Swordart777,972,456,384,True,False,False,False
+25,CHALLENGER,_ocu-Wlem6T8AJtLpJUaD4T-XsVfepwWuz_JlfwY-LMpAUQ,칸 나,731,465,425,True,False,False,False
+26,CHALLENGER,sJqv3CGaUjNKndYJihmm4aLHwpapRhIslhgnRMN04uWP5A,JustLikeThatKR,788,317,310,False,False,False,False
+27,CHALLENGER,-ERsam4AfqzDQmFn5LRFIEQMouAr2Cj5R52z6ApcjNQAMqs,Gen G Karis,800,456,448,False,False,False,False
+28,CHALLENGER,Cn0SOxcOpiWc7Xb7vOG-YBsxXGp7kgltpCgIggD6CRIDpL4,Onikiri,738,692,627,False,False,False,False
+29,CHALLENGER,lsLFbpiuYP927cjlrlmZPwc2lHcJGTnfhiE7FACuiQxdeTg,Yun WAY,767,286,235,False,False,False,False
+30,CHALLENGER,RdneF7Qm5vJGQe24F-ean0B62t6p31jMDbiapPgQgkdfGC4,ESC Shane,821,248,190,False,False,False,True
+31,CHALLENGER,SuuTkXCnMi2iyXy0mSud_6hdteD50Kf3IpbZ4XXviObKc1g,Light1500,797,261,205,True,False,False,False
+32,CHALLENGER,cFBghDN095CU6liUhEsl01QpHWVKkKAOqAMu2br5lY5fW-4,부자되자부자되자,941,276,214,False,False,False,True
+33,CHALLENGER,3OAjFV1fA0HeplGBrpYrmMCuYN5xmqmOaxLo8vBy7x0H55g,lu ming zhe,680,311,237,False,False,False,False
+34,CHALLENGER,oN-ImrB3nfYSne4HgmGRf4gCQFP6f1-h3V5ackIcDWENYz4,knightzz,823,466,365,True,False,False,False
+35,CHALLENGER,4xRk1tsA_RPJMH2i-_g_zqEqmTLTts9Zrcdjc9Ubpgi8IKQ,I cannt stop,660,863,823,False,False,True,False
+36,CHALLENGER,btqgocFVqXSTe88qencVWSZn_POCPXKSfHtZOnP8UBFtiA0,악어새,814,353,305,True,False,False,False
+37,CHALLENGER,D6P1C8aab4lkkb2Ejq7Zt5WBy3gp6XPyowoxiiyI-Prv4hE,wuwuwu wosile,754,622,562,False,False,False,False
+38,CHALLENGER,icGhriYnaGcSr2kyyfyVgjAsmDh-Va6lNYHJbmz5wX5Nems,SPG Zzus,1248,313,250,True,False,False,True
+39,CHALLENGER,VT11phu31cdToTpgtU-IpIi6EJ8_TZE0a_Je_PVBeZF76ys,Lehends,1074,369,311,True,False,False,False
+40,CHALLENGER,uydXORRTFxH6FOiTXC3CNCmxUw__LVebpK6Wc062_--wA00,Sennin MODE,743,307,262,False,False,False,True
+41,CHALLENGER,8dOG-HGRKA-BVIQZwsqXe4dNEa9yQ3I9qOZddJ_zTWaLjkQ,날이 샐 무렵,747,286,245,False,False,True,False
+42,CHALLENGER,JZGMGFVNWBH3-ct3Atz8pfhj9nNfxhttRjB0kGx8i4yqSPU,bugaoxing,735,303,264,True,False,False,False
+43,CHALLENGER,q0Xc0L_6cVkK71W_DcqfDRUe2NKel9uWY_GTBzNJt78fDMU,DWG BeryL,966,296,252,True,False,False,False
+44,CHALLENGER,6L6gUVIXRMwEN-BcjJjHCnCCqBmYR90pzoNFSf2vT2vtLYY,재미없다고오,688,418,370,True,False,False,False
+45,CHALLENGER,uQs2XlFx896C_BqUOM5MCeIcaSdu-yVWtRnK-Sxqd1BC1qE,wuhudsm,1328,624,512,True,False,False,False
+46,CHALLENGER,J0cUkxGLtq3eLjwibKcUtdKiwcsjKkXzdGDs9BD-2zuIng,이보검,678,281,196,False,False,False,False
+47,CHALLENGER,lqOWa5DzQwe-bhsVn9Yn6t_yE-Rt31boNKDOaCgv7KytYAo,xuxubaobao,675,235,181,False,False,True,False
+48,CHALLENGER,nuUmYvWxWrbdZ7Qz6WEGV-RVE2axXtVa7LRZUvyJMHJVuWM,clearlov9,654,148,108,False,False,False,False
+49,CHALLENGER,SQipd0VHzGA5YiOCMX7Xa1wc2V2Fz2lA145Qbbofv1g6S3c,진에어 잔디,924,386,321,False,False,False,True
+50,CHALLENGER,xvLYz6PYsFG2Al8Zm_OyH4GsIfx1ubMfpJItjRDTiAIjR8g,고분하게,693,157,105,False,False,False,False
+51,CHALLENGER,oc018cuBJ98Ff0-xMEx5dj-eLlSt7RxnkMXY6kZqwQGRw-s,Sangchu,715,225,208,False,False,False,True
+52,CHALLENGER,NLjip5QMWFhICxrEY_P-D55g22eUT8S06yvhic2zUiD4wg,훙쌍리,809,252,175,False,False,False,False
+53,CHALLENGER,ArJwV_k11OVLspSELCigbqHcjiH07-adtqEJJskH6vWJ46A,종탁이,753,766,716,False,False,True,False
+54,CHALLENGER,IS_p7VVxk3Bj-RoTZzz1I-Fy6FR-SC3IO4vFQZqPUyVJ2RM,DRX Deft,791,455,404,True,False,False,False
+55,CHALLENGER,ihEXiI7sxvSGRPThabr02o2PjKpb9gAXMYeHeWrGrKTWeqM,Mango Fish,1023,464,351,True,False,False,False
+56,CHALLENGER,Kc982LGTXScGmKvpyqtfBBYrQPXS2xJ3S1UETMBnZMnQVvw,87 n94fmpcs,845,879,775,True,False,False,False
+57,CHALLENGER,X96DT3vude5pQizXkmVZAIbdgZQNybQ8e2Xgziy-8_tAyA,Hide on bush,933,377,334,True,False,False,True
+58,CHALLENGER,ST7XxDhX1PDTFCjLLUDZ0MKw2lWFomfz39ckhHP1Fry2sa0,갱장헤 엄청나,800,283,227,False,False,True,True
+59,CHALLENGER,qvqaD3kR4AX1j6eBeCAiJLQ8dwNJfmjB8ixcfy6MBpwz47k,정중지와1,825,283,214,False,False,False,False
+60,CHALLENGER,4u1qYcqu9zKvLtcs7qlIM4ZPLRJfIgvHvuutaJQyt0ncyg,sheng huo bu yi,808,358,312,False,False,False,False
+61,CHALLENGER,QEm0BK1WHS-jd_DZ2Kcp3P1w8gMqb3Uz9QKoYjQHHN36wOM,suyin,699,552,455,False,False,True,False
+62,CHALLENGER,Zm6NlPNMd2zAPwEH-SjOX3-1b-7d9Ue3z3-kD-40-PqZ1L8,Vlbra,878,291,254,True,False,False,False
+63,CHALLENGER,UXWfpB2r22KHENBtqHdaYL4JaVkkfR8NUF_sak8LWRXAQg,돌낳는남자,747,245,204,False,False,False,False
+64,CHALLENGER,6dG5maWhi6DH2s2c08cpBr5n3X9KJ2hBs1wT88DLWTQw4g,허징어링,689,134,127,False,False,True,True
+65,CHALLENGER,WzbePGD682x_EIruaNVLw0PhBPlaVq20JRtEDhwUX3jPiLvx,98kgame095,984,196,74,False,False,False,False
+66,CHALLENGER,0YmSMi0__BYZ4Zkm3plmlqF1X82IbXgDtrjKsY6_zy5ZFyI,저승용호야,913,541,478,True,False,False,False
+67,CHALLENGER,hCPUdO0E6rU6r1h1mA-ZRyTvDqxvNfUixDlKGi92qSvUQGM,Yunqi,799,261,211,False,False,False,False
+68,CHALLENGER,UGi6UnJvRgoNKqrLlocFARvkxC4n2r6Xr5CytI4y0MK0jYI,발이 저리다,1404,143,75,True,False,False,False
+69,CHALLENGER,r10UyNyLMil3fOK_QqgHa_BpRRCWFNMOjC_iFRoSfrTAFyo,기붕스1,688,291,244,False,False,True,False
+70,CHALLENGER,oc_pmq9ouQHTQIojIJXW94L3KxesR5WPtEqqG61vM_mVwp4,Tangwagege,679,646,604,False,False,True,False
+71,CHALLENGER,2SARSKfKY5uva6sF0bliUPbUM86VxMLXLWlZRVtAHugkpKA,FPX LuLu,667,201,123,False,False,False,False
+72,CHALLENGER,LT-_9r9QYtLUj0qizsSvjuStI_uLIS9FWmmhC9HKq8HhYw,Heart,923,444,380,True,False,False,True
+73,CHALLENGER,Zep70POV9lnng4-eV6sqYzM6v6nB3OTP5XrzwHbyWxYlXPo,NO BB TOP KING,693,373,327,True,False,False,False
+74,CHALLENGER,BaoXMF3Odb32WlSIzazQKIFh5wsjOl-gIi2_HfFHQz_ojg,굿 팀,814,580,537,True,False,False,False
+75,CHALLENGER,BidSV08CLTa18fhDiWda6mzeUcnuGorAEvS8raOUyfxF7Ao,gpdltmxm,705,538,501,False,False,False,True
+76,CHALLENGER,ni_6aLmClmoBly9gVy5yVSmJi-3lgQu9LIR-Ysw7Rr060FI,HLE Viper,1122,368,304,True,False,False,False
+77,CHALLENGER,ofqr2HfmmL9iPzGKPpjgzhfoWkelhZwR9emW8D38-p2S4mA,Wubalubadubdub,688,604,555,False,False,True,False
+78,CHALLENGER,RW8GNku618sQwUEcMN93Z4XpT7FSEKiMMs1qZofetskkqdM,hapy day,666,362,319,False,False,True,False
+79,CHALLENGER,UYuH_0ULPzNgplWBsNe0KGhgBppZq52WGBBfUKOesY3Dyws,owowowowowowow,752,490,432,False,False,False,False
+80,CHALLENGER,nDSNAyXnOxG8AVwvuQjUSu2Iv1Kjm6JGJEvs1reyL0dSdIo,모두모두행복하길,1162,212,91,True,False,False,False
+81,CHALLENGER,WEbQA3iOcNU8D4yggR_t00qMWs3I8P8k2aeg3W_2LCjOCA,wuwuwu biezhuawo,769,200,156,True,False,False,False
+82,CHALLENGER,CEZbQLOceMlOd0mdf6CSZQXT54FSfGCp5TAPnO3awO20pOc,huntiand1,683,616,600,False,False,True,False
+83,CHALLENGER,lYP-dkWP4treBOhKN03jkEJMGisfOQNDHaJztjN0K8zMWmU,진정한 쾌락,938,678,625,True,False,False,False
+84,CHALLENGER,RqQA7d_NoNYdT6Kxzu3WHYvOYEwNrgG70tJec6xpmZMQaWc,FPXzhaoJG4506303,719,564,461,False,False,False,False
+85,CHALLENGER,Wr2t1voVreewPT7zWM3zzF9e1dT15vS_vO9mQmZQ5UQF5Qs,beixinjie,702,759,699,False,False,False,False
+86,CHALLENGER,koksgvZGsaOliqXTUil_Zd2Mov67ouRraVa3HnqS9kSnHA,가진게없는사람,758,337,278,False,False,False,False
+87,CHALLENGER,ELacBwUyQIu0N5CTrm0xjg1DbjY5xE_tjQ-K6-m6WwwN1cU,팀개못하면누누함,851,364,293,True,False,False,True
+88,CHALLENGER,NR09V9cfezuqO3xD5XnPtT9CUzeFIQ9t0kwM7IEJe-KdXXI,Sup2020,658,360,320,False,False,True,True
+89,CHALLENGER,jHOLr1X7PWn8_yER99De5gUwcWjWaHFfCcExWmUXyGro8kc,ZED99,976,383,265,True,False,False,False
+90,CHALLENGER,Rn8r6WTIih9lmcWuO341yifK7OQkSkNpSVDKjYHDS-WTsxs,도넛이맛어요,720,458,421,False,False,False,False
+91,CHALLENGER,E3wjf5p2723IlDZyg4tH8Al9Fq_mnaMs5lGpprpCgGaJ6_o,캐 인,701,287,280,False,False,True,True
+92,CHALLENGER,MtZsGpfM58xGyW4q-FybKyBWHdIJm07MeMGdPz2IocUlCRU,SANDBOX Serenity,786,299,266,False,False,False,False
+93,CHALLENGER,ZEOJVRuf-lJ7oHDs0l4ML66QeuagoMeftzykSPSMtab3rUk,우울우울,629,303,266,False,False,False,False
+94,CHALLENGER,iLRfGfqgsToDR4xw1ZyyszmkI_CZmt2UQGevdfaTNODyDMk,OZ Juhan,721,668,623,True,False,False,False
+95,CHALLENGER,tWyCPpL2UHOMaBDhAmp-shjTk-gTng-N8tUS7EZPk36r5uM,코 태,826,152,152,True,False,False,True
+96,CHALLENGER,cJ-fOv6OSJEcnB7hjgFEoxTCEitrsfKL-cf64XWdgew--J4,MapleStory275LV,730,641,593,False,False,False,False
+97,CHALLENGER,t4tghYKJzJlqW_AbBUrkjvHiBHi3YkgI56io4Xk07HAglG4,yasuo2,823,166,118,False,False,False,False
+98,CHALLENGER,qNdrA6-9K74k4OAyGv0ogSYZb3Nka9D1Ffw-s5lpZM7i6wU,피즈 조이,803,272,221,False,False,False,True
+99,CHALLENGER,5b8G6uR9XToVZrfQaeNpA3eTFt0zM8RLaMXXcqVWcGumvIk,저신개패는놈,821,230,184,True,False,False,False
+100,CHALLENGER,zgeRns1VKdDRO-H4PInVOA_0kJj6w8qh6rO7zcu7EB2-LsA,Koei,797,713,665,True,False,False,True
+101,CHALLENGER,8ulkq78MCXhQvcCvXdwFm8CKFz6Wr82CtZXX3StzoVXrbTU,중국인차단,835,179,134,False,False,False,False
+102,CHALLENGER,dnAiTcBgFlO7z0GZX6zw1reSqTMPIZM3SLOzctWoWfMPTKw,메이훙후이,690,380,337,False,False,True,False
+103,CHALLENGER,9YgRKwMMmVUx1WnIHFYegH8tYoBTUM2CcxO85QrjCTGFWCw,solcalol,731,104,61,False,False,True,True
+104,CHALLENGER,yh3Z_7JNy64GLax45vN5ALXlBaPh45fIn-qmyFkFdLFh8g,Iove galio,1021,375,298,True,False,False,False
+105,CHALLENGER,NpdYwAmyG4hBqG8Y6vxZgZKLVjUDEN4MSWQk1aw1reQgZP0,EM 상어,655,260,230,False,False,True,False
+106,CHALLENGER,AJX0kjeEHQpnFpTCd4-tsNwKaaC_nmwDsXu2tEu8R_kr6jg,qiaqia,672,526,484,False,False,True,False
+107,CHALLENGER,unXBnRtbueC62B7qHtR-yltJKa2-NRKKZsWc12qJV47YkJo,걸렸다 내정체,938,317,252,False,False,False,True
+108,CHALLENGER,ZwqpNeKonGUnkgbK2OwooQ1WE8FcTD_OyaoRJFEWLA-PfEw,lonely mind,652,790,774,False,False,True,False
+109,CHALLENGER,8xDKBD00779B8QZgVBGgyW03nleaG26jBq8PnEX_p2VPMHE,UijU,1122,501,441,True,False,False,False
+110,CHALLENGER,Hks0ICHAiuSalbqDwyVsIMT4zl8WHOu1Wmnyl711_6TjcH4,Sweety Pretty,661,268,228,False,False,True,False
+111,CHALLENGER,o7zt33xCX-oT3rudQ3O3ssDH05-6TOLRQCOe4xJ4V6IYKe4,xasfsdwqewq,939,191,137,False,False,False,False
+112,CHALLENGER,3Q7EgOsEuT2pu9ywv4FCjLwgQuIRRsAZeBmGyriA-j2q13w,IIrrooGG,927,384,329,False,False,False,True
+113,CHALLENGER,mp-UKDdfZlW9r54fpnWmcR___8Ac8X96JClJrITl1b_MZpQ,전독시정주행,784,264,217,False,False,False,False
+114,CHALLENGER,Xs0bvETqeJNe2ELmpakCxTdg6uKhei6-gHcpD-LG7jaDvsM,qwetyz,1029,565,498,True,False,False,False
+115,CHALLENGER,WZnE2kfYkMzgamL1pJDTiPwbbCMqT8hRvqSG6jQlCTRi56Q,KZ Quad,818,249,139,True,False,False,False
+116,CHALLENGER,cbZZ51gn4F_4Q-hNsZcqK_G5d4I8myg2X75zf50sW0WRAxU,hick billy,664,338,303,False,False,True,False
+117,CHALLENGER,5UzGHKQii7F-A6N5GkH2yBvh-EgTOeyuEfqNR4kbsy5t_kU,jeoniksu,744,369,328,False,False,True,False
+118,CHALLENGER,Nk2P1TJjwCZ_cKGEUASfug4i044U9tm7tfDMQEKFeOZn6UI,내가사랑혜 선,663,254,142,False,False,True,False
+119,CHALLENGER,GvUGEfMfHIEZ-yd41S3ZBRbDU7cyPTPT5KHsXidUxj-SMY8,Twitch Tv 헤돈,1206,420,354,True,False,False,True
+120,CHALLENGER,Z-_ErIk7lMlWpCFDvE6p1TUmCl6FNnjIzMz8CTBf2E2cyQ,군밤갓,776,184,142,True,False,False,True
+121,CHALLENGER,1z44QleKYf-tOGU4bX51AZfeIgi0G_O8omT6iKwOf7oR3Sc,whisper snow,915,639,588,True,False,False,False
+122,CHALLENGER,naqDjdlJkniPReU1LIs79sl3O77Q_E9IzrQFXf85AlnDI0g,Gen G Clid,658,429,378,False,False,True,False
+123,CHALLENGER,8xjkalqkiXMA8WO-ZixM-hi7SzhCyOOP0vSHg6e2IRAaSpQ,KT Ucal,1088,414,330,True,False,False,False
+124,CHALLENGER,OvDwdHPKwR-m08xj9idbegt4JOt-YrZKIMYisIYb9MhxiSI,Yordlee,797,424,381,False,False,False,True
+125,CHALLENGER,8Q1GWUWSK9IncUg2umSDq1xgUt9laEGP545Bsiqq6EDkNJw,베인장인요맨,664,323,274,False,False,True,False
+126,CHALLENGER,IY58FGGMqYQD-zCNvGs6Q6gs-RY7waEznL2Pg6JWNlzUA5w,W9L22,1035,358,293,True,False,False,False
+127,CHALLENGER,5l-TjANGZdjKYRB5wO-NRRae2GXK6k-A7vfIUQFl8ZYfkYk,백수넛,911,407,358,True,False,False,False
+128,CHALLENGER,Y1fj7L5brcPAEcS2UBc4kCuwtacQ9fr8MkyOAzfQQ0-b4TA,AF Burry,696,551,441,False,False,False,False
+129,CHALLENGER,pmXPDbsXF-o8mVwzSI2foaqha9GQzRvRngnXO4PWmwmUEkg,HLE Mireu,709,622,571,True,False,False,False
+130,CHALLENGER,zoaFBEGdY7S6U0ghijbNPYWzTP4R37Nm2MpinhBK5m2Z_EY,마휘핑의크림치즈,824,560,510,False,False,False,True
+131,CHALLENGER,aGr5kBt4KvF8VZq0Sqsau3XDg6QWOdBxX5B_bN1_Ayi4QE8,wohennangu0,1233,548,469,True,False,False,False
+132,CHALLENGER,dZqHzXWScs-XFxfzBfSfhZWfu5Wt2Hy__8Gr5M-l887_ZvY,DYN Kuzan1,1003,451,401,False,False,False,True
+133,CHALLENGER,-YEk7ribtCDDs92ww4jZrApW2ksjZdA_Uh120PJeslpGUis,한화 영재,726,505,471,False,False,False,False
+134,CHALLENGER,VxVaq2_l8lEFqCfvuMyvkPP-o16JjHqVOZOo5NtCiqYiC8E,사람이름이윤용호,1147,296,184,True,False,False,False
+135,CHALLENGER,2lbQCeMgcRsQtMVS3p4R5tFl4aqCXRCEkhNCsYKa5Rzdj4c,DRX Onlyl,847,544,491,False,False,False,False
+136,CHALLENGER,pUQnXrmI-KOCjXZ9GKK3T3-i1zZ425uOpCAfemWLrGBov1c,SANDBOX Route,710,341,311,True,False,False,False
+137,CHALLENGER,QcmMVpKvcpNMSJRhftidlGL62CDWKDhFB5wKuJO5Sh0cn70,Da Su Ke De,742,743,665,True,False,False,False
+138,CHALLENGER,g2ewurqxbvZY_zG-mLVXXLM_NJfvp4YwSmrr3r9y9_u2L9A,py188,1112,202,125,False,False,False,False
+139,CHALLENGER,gvBxTechF5B_qj74M9ipoib7I65GmOrvXQBBZGcpgumuuG0,JUGKlNG,1080,154,95,True,False,False,False
+140,CHALLENGER,evAQuJtzV5ZitHC36t7dwvRTdySABn7ftPMpvXUs6FWddk0,간다라쿤다,710,739,682,False,False,True,False
+141,CHALLENGER,YguFcc8Pnpnh2n0wHzJi2bFSk4-jrBR7cg5l7IH0D-PsfS8,FPXzhaoUP4506303,1004,241,123,False,False,False,True
+142,CHALLENGER,7xZZz4vocnoCMG7OiQo4QNy5FSfONtees0OFoldR7VBA_Q,Axiyo,812,164,164,True,False,False,False
+143,CHALLENGER,M8yiWfrvC4-_BE_sa5i_2MgI5nlq6ZA8GBdd22bRhytQ8T8,쭌 베 fan,692,650,625,False,False,False,False
+144,CHALLENGER,BxkcJzf1RZNq3Zh7JoNnEvUWHw8ikZD-xrUcbmcnaTC3Hw,arrowIoI,1024,556,493,True,False,False,False
+145,CHALLENGER,OHKud3cUZjrWvC_i9eZvKG6xKTPUAUxu0WawSi0qh9PXZR4,Miunaovo,840,396,349,False,False,False,False
+146,CHALLENGER,Dir8QVMhd_4dfSPhsFyfao3dktQg_t9DoBnlJ6PKULMctOs,T1 Kuri,1084,748,691,True,False,False,False
+147,CHALLENGER,PMJEQqgul7-jGuxxd7QHaiX9oZHmCA8cvciwYeKSw5cKTCE,showmakerzzz,1307,203,126,True,False,False,False
+148,CHALLENGER,pVo-KxZKlbmF_8f_MowjEACaU0RDgxh8em9H1fKkIyVG4rQ,T1 Cuzz,888,295,249,True,False,False,False
+149,CHALLENGER,CoWMLO2ckp8cNApzAQe7Zfwsj0O3dxl-On3zGVJRert1_es,T1 Gumayusi,1241,542,465,True,False,False,True
+150,CHALLENGER,btG_S2Ip_ud5R4uFbF1clTtNS8b5D47biK8xTDkMHIlvfQ,단군의청춘부재,893,421,398,False,False,False,False
+151,CHALLENGER,i9LV6MCcSzZOWVAIMGKf4x00ScbDawr9JZNjAS-GvrEUNRM,마스크 챙기자,861,471,424,False,False,False,False
+152,CHALLENGER,kGkmO6UD9tkB5bNWIYDbStsG_DOwye6yre-6uLMirEKmNf4,KT Malrang,1337,336,257,True,False,False,True
+153,CHALLENGER,a6cZyZCMxZ0un6_BP3XzUHAAC9L9wxlNGgNH80EbwyI89F8,주먹밥쿵야l,714,208,170,False,False,False,False
+154,CHALLENGER,gwtGZJIXsrboEJwN6lwhodt-CvX-ZEjgGxXjUIfj5ovaBJQ,10k EGO,722,498,446,False,False,False,False
+155,CHALLENGER,We7cvzOClg01AdP7sq6h9WQubXGYJDZtlVt_sEusTziinw,SRY THX GG,670,342,294,False,False,True,False
+156,CHALLENGER,ebShu0jlKegPMaKzuhgc3x7ftgGm9u36cnMmCc2zX4OWces,owoowoowoowoowo,1306,293,139,True,False,False,False
+157,CHALLENGER,808xpM-9hZrpNykI6LWZY-S21Iew-GmWytZBy_hHVFe_YA,불다이아,721,115,114,False,False,False,False
+158,CHALLENGER,X7ion83Nlk6egTx-MYywomRCwZVGxhaUBrPLsXJc_F6DJQY,7777케이,662,785,737,False,False,False,False
+159,CHALLENGER,ZMkKK2rmFcyRgVBy24EDvHNAgZi3fR1xExFykzdhKNvL6nA,always confident,804,301,251,True,False,False,True
+160,CHALLENGER,1_QUseJC4erQmIFmqfZwd8VA8g3LjqaJCmw2sM0KWaf-HRc,zww,782,211,168,False,False,True,True
+161,CHALLENGER,qnj6zBqbO6pImSDLvKWc43xXL2pgBnIe1ae1L4KZeA4aXew,화내 지 마1,672,547,498,False,False,True,True
+162,CHALLENGER,AC65erMl6-c1tmEZjZw3B-AbXAE5cwM7T-j-e03coO_dJGo,엘 림,759,497,459,False,False,False,False
+163,CHALLENGER,6GsX7O13uD5h-cqzRBhOyA_aH9GuL199cWJpnT2K5Zw4F1A,URGOLD,660,292,225,False,False,True,False
+164,CHALLENGER,iQECXVHvsbV4J9OIOtximf0sPEj_VR1OeIz_SbMqc4XoqaA,qqiqi77,758,268,230,True,False,False,False
+165,CHALLENGER,GhlngvFr7yEJKnaV4pSXT0B0lhM4gfg-Oq1utgu_asOIYpk,헤 돈,674,150,98,False,False,True,False
+166,CHALLENGER,1FdOIQK31If4qbAEOX3ZxvkL2ANyjyqRwejInQY2gWKr-dM,실망자,819,306,267,True,False,False,False
+167,CHALLENGER,jwN-dZ_ByJa_tpbsKwUeVU1tFm3A6cgEWz84N9EwF9T-KHA,corgii,834,515,424,True,False,False,False
+168,CHALLENGER,f4NNTTcTvNIu2-u4QafXu7CN6mZsRrTRB9X1-iujtlHDnJI,DWG ShowMaker,1488,301,220,True,False,False,False
+169,CHALLENGER,KlolvPQNJaxcGo-15r1_SqgihsMNpHgeJuelDSWDA-fWzeI,KkOma21,666,203,166,False,False,True,False
+170,CHALLENGER,NhpRgDA8O98hL-8QXunpmGwf7VRnzdzApfAOIn0TowR1bGE,deokdam,1090,173,106,True,False,False,False
+171,CHALLENGER,zzqp9uvC0iw0SVqq4lLpANJ-cWqCCautO7A8slte9kI3g7A,d0 myself ,799,826,775,False,False,True,False
+172,CHALLENGER,WXBfhSq1wib3sHpJPUZ4-d82he4MqetuBW5aCHykdfL-vVo,AdadeHuanggou,804,571,459,False,False,False,False
+173,CHALLENGER,1xZ5UrCs_b6_Xn7qZMkEWirD_uh7PJC6DogX-2kn3iM_s2k,KzcXaz,1236,363,287,True,False,False,False
+174,CHALLENGER,L7l6Y-mbFCGBgXv0wA8t7cglbVRRx_lE9La31LcymcOyttI,Twitch TV 리하우,658,281,240,False,False,True,False
+175,CHALLENGER,HEqLy_VmWIlrzb42SjcuxkYnesUvMGrCrQB6uYCsA7BLDbw,연패 후 연승,677,433,347,False,False,False,False
+176,CHALLENGER,JWFH6G2O5hRSknANvVOe3aasABnCToYVpwexWvDfvIIBbw,미쳐놈,1101,624,556,True,False,False,True
+177,CHALLENGER,5v3gBImLhDBobSFwgJfuALAyoVbxSMLFw3FfyR74RDLWPo4,SANDBOX Ice,771,404,371,False,False,False,False
+178,CHALLENGER,ZzZlas9F3dHI_457VLdVezYfrgM_L6lLMVe-k_CGsx_W8cg,Luuren,885,242,198,True,False,False,False
+179,CHALLENGER,SpNi1Gqk2b_zwQiu0W7vgWto-hfwdcPZY9NrX1rf5Fz-cb8,tian xia wu di,828,210,165,True,False,False,True
+180,CHALLENGER,M3XTlaaYTOIATOBKzHxFyFjI0cyB3WXh1wEe1KR4b1wCIA,eren헌터,838,329,290,False,False,True,True
+181,CHALLENGER,gD8LoUtv3oxzTMPPTzpTc5fTVg4gXjPc01-cDQVpMUZwHHA,OZ ian,645,328,275,False,False,True,False
+182,CHALLENGER,T9-arVoozUCm4O0bStqtrc1XMd_OhnMEjG-uxWtLsp7wQ14,wenzhuwenzhu,708,952,859,False,False,True,False
+183,CHALLENGER,pFJwNdX8cpiOCz6jMy7gs3DEEqLfQHBGBfV1fBQDoJT0rqw,hfdidi,998,645,591,True,False,False,False
+184,CHALLENGER,QqFS-uadEzGRJjkqMaUvuytKjj88TERTVZ0VppHGetbxSek,K T,1220,279,153,True,False,False,False
+185,CHALLENGER,kUJZ_5KluASUyi1zgRyHx0nxRPPD1Yl2kqzzRGTbPNHeUg,SHARK KING,756,181,66,False,False,False,True
+186,CHALLENGER,HYxcvv8VdyiIc-eNCetoQyg3kpxOC5FfGV0AZzvd78sjRBk,chao shi ke ai,668,400,349,False,False,False,False
+187,CHALLENGER,aWt_sid_PH_qsd_veeadye6HZ1glxqz3An0yNz9LC_WXeSU,Twitch TV donko,690,550,507,False,False,False,True
+188,CHALLENGER,Gc-EXGhxjGaWTTeuAUn7AVkQNlTmWux0ZBQRRk9MsS3akgw,손연우 사랑해,1041,244,175,False,False,False,True
+189,CHALLENGER,Yn4_zTPqN2UmI4T-n31YjENRgsm6lvsiOPLGm7a4nm1KQUc,xiny1,702,376,306,True,False,False,False
+190,CHALLENGER,KrXGEt5BJRyrIchopcR_kwG0oph8_G-vwCyAonhrBjLlS6A,모두건강하게,732,318,271,False,False,False,False
+191,CHALLENGER,Vu6BCQzYWtR4HM4OpmkXnYeIruOOEQJYLlRIrdYyQpMwWg,MAI WAY,949,184,129,False,False,False,False
+192,CHALLENGER,Jh-61jt_shIFL5RQMQehj9ehufxVIaX-HNzzdR7toHlxdw,CCrazy,768,452,416,False,False,False,False
+193,CHALLENGER,Lx_UX4eV9UlWxnRYelBGwf3Pgx7-XEDhgenZuGbp87oCbqc,xxxxxxx1,991,368,305,False,False,False,False
+194,CHALLENGER,owEfEjRoTclJrhZG2rEb4HA8C-OY_OemUKf4L3qS9cJC2T8,krats aira,1057,287,234,True,False,False,False
+195,CHALLENGER,ATiape8d7PpQmq1e16pOAeMS3Jl34tbRtEXypOnQMmOFfzc,랭겜에강한남자,798,366,310,False,False,False,False
+196,CHALLENGER,toc0N6OqpqfBUePNsZOZwqvj7beBXY2FJNN0uXF5p-0N7KU,zwhy,1075,287,224,True,False,False,False
+197,CHALLENGER,EYoqm0CQjXYkCkMflAdM7EdTkcGCsT3z6b6sksgNye3T76U,창작은 괴로워,796,346,283,False,False,False,True
+198,CHALLENGER,aSYhvQ47Ikc-KTCOkdT6hMTeEIJjD6bMH3-z5JMzRRYlG8o,Khae1,900,462,363,True,False,False,True
+199,CHALLENGER,AJcuBKrnK53JBzu9FN4GLKCdPw4QL9KTlsDZd0TYHlpMvnc,msblmktmsmsy,1129,489,400,True,False,False,False
+200,CHALLENGER,DDw-fTpQ20MQX5lqxXF3e_H8oLhF9uCWjB6bTcS3G7_DIqc,Peach1119,905,428,358,True,False,False,False
+201,CHALLENGER,5OjYiD6wvi4Kc-ERFjoUk-bLnFhDV1D1XWxoWTz0OGqRotc,SANDBOX Lonely,929,336,287,True,False,False,False
+202,CHALLENGER,l4QUK328_9x1yIRtuiE9_JIiSruEGL1tjJFWmEOoFfmfE90,DWG Canyon,1148,404,330,True,False,False,False
+203,CHALLENGER,NK83RMGGs9et96t3ZHBw3tDZm1ytTdRRD2nvff1fK5UbYKM,Dread00,1033,211,145,False,False,False,True
+204,CHALLENGER,LOLFR8jWlkf-8i7RfekNPSDKdnpqUmr47hDahlpy7rqzL_E,YeQiuFeng,704,329,224,False,False,True,True
+205,CHALLENGER,eMYJ8gGsuJYHoVVarEFnKT2LPhHOgh3ni3mTTqX-dM0SSYg,못할 때도 있지,677,346,264,False,False,True,True
+206,CHALLENGER,IeNfgYUBGDQ5bPIRb4mSBLwsfnmbtWLpDXXqmJoYH2bQpw,T1 Roach,753,588,557,False,False,True,False
+207,CHALLENGER,7DvVu5rWqfOzOkCxWRkNavPA_K9LvDqLhNpvbdqscDU92KU,곽곽보성,720,390,339,True,False,False,False
+208,CHALLENGER,SUlBwe8P6rYBdMwExp8HFrmipU_EzUOJ8eeLrKYn1DqZ0Lc,요붕스1,1208,426,342,True,False,False,False
+209,CHALLENGER,Y2_1O9C0kRgYEUfzrb56WLJqJRFlRTnP5bLEA7SrFycfPi0,JG NO CJ xxx,1001,641,535,True,False,False,False
+210,CHALLENGER,C6rE_qp9z05EtnDjtxNxsIuC2zPuUpnfRlDCIkI5EZ_YyQ,한화 큐베,1103,658,605,True,False,False,True
+211,CHALLENGER,qJVES2LTZV9hpbv_bVCQOVgstMZv_yVk6P-3aEUyOXB8sTg,챌까지 뽀삐함 ,664,188,145,False,False,False,False
+212,CHALLENGER,mkAz6CjwfhgKaAn-vdLXq17Z3HZb2KshXZAUne7DH-RK4QE,타 잔,1214,358,287,True,False,False,True
+213,CHALLENGER,BskbZKD4_-yZQyrD78poyVDW18n_OTyAdpRhK3mHuu-WDgw,feijizhadan,705,639,617,False,False,True,False
+214,CHALLENGER,_CpUMUsTgnvrso1oijJWuIZ2ZWkxrj6g5hFJcBsz-vcrjz4,Morgan Burdol,647,656,614,False,False,True,False
+215,CHALLENGER,4X_K6bUojjJA8FCJzXqwRddEapgzJl75tdx4fW7BZAYeHeo,Gen G Kellin,940,307,257,True,False,False,False
+216,CHALLENGER,sPFAbutNskE7fcPFC2LJtWLPXq9mMMNX-lzPSDIJzB2ckw,쪼렙이다말로하자,1141,741,678,True,False,False,False
+217,CHALLENGER,4vOE_qeIPP8JnKMBOFXhl0mHe1vY5jvIxdkYTog09I81H58,김도칠,873,408,361,False,False,False,False
+218,CHALLENGER,jo7McMDkQYg_nez4wa-h6j8jtw5Q2BI2OJGsynTVScEtB9k,황승언누나여신,663,285,217,False,False,True,True
+219,CHALLENGER,Bo2WLLhOQwTbGQcmUfGNbjxzSAqC8vzr1O-fjnA6nWrtNQ,Yaw nuY,673,234,189,False,False,False,False
+220,CHALLENGER,oQ1Eif8ysEsY5HGROkOHuSyjBRjqDwPuYnipReOf3rnjVg4,xiao hong mao,757,555,404,False,False,False,False
+221,CHALLENGER,1WvNvAyP-M2G2sYHqubsBnTOdNv8lZ7cZAcUCR94HCBqClo,읽씹맨,817,267,215,True,False,False,False
+222,CHALLENGER,oIshasOUg01wDG9A7BTUTpiBkFSMykAZ3MmJXYvCcKlB3YU,Gen G Focus,866,331,269,False,False,False,False
+223,CHALLENGER,DU_EMZn8G1dpuzV9Gys3IeqxmWP8Ab8ek-BLpH6XGjxGD3I,T1 Closer,775,597,553,False,False,True,False
+224,CHALLENGER,rX8j1XYSlRNApa8CtRt467txYoJqU2J1eLJG_9wMdVsYxeA,따봉 람머스,894,430,354,True,False,False,False
+225,CHALLENGER,HV82N2ZRO9VLF31xGildta9hLFxb2Vtigaek-4HdQN5Qnyk,SANDBOX Dove,839,403,369,False,False,False,True
+226,CHALLENGER,HOR1r5qs1zd2SigrNUqaPLZf57JMv6US1UUIhLOypVL4XfU,wuwuwu bieshawo,773,421,352,False,False,False,False
+227,CHALLENGER,-cb41_YzjijiKct3orFw4mnGkNwaQ7iuuuHRgN09QQc-Uw,SANDBOX GorillA,684,431,397,False,False,True,False
+228,CHALLENGER,kFNdvzWCpmLt77WSC9M725TK7TpsgSem2FigEmPwl3SQ9r0,Zenit,825,380,333,True,False,False,False
+229,CHALLENGER,Rbqbj_5qp7Ri37hHVz6wyKYG7dBa3s1DKuOQfbLBwCBGNYc,supupsupupsupup,891,356,299,True,False,False,False
+230,CHALLENGER,M03Dh7sNFi5AmUrqDdCrPqasL1otuwUjJgF1iBQnm9l1xiI,이 차가 식기전에,944,763,703,True,False,False,False
+231,CHALLENGER,tzIcB1Dxy6k4Vj71uBDy4KstREoSoB1MGS8dw7c0O1xJUx4,Tar2an,754,127,84,False,False,False,False
+232,CHALLENGER,rpLdBcIAX9T4sGstj-4t22Ovn8ZuSfBgqENGnYdUwu5hUtE,motiongggggggggg,947,550,469,True,False,False,False
+233,CHALLENGER,zdtu8Mxb2CETngKU0elEX6MfFuyirEjluSnR0mpfJAVh1c0,See u AG,791,238,183,False,False,False,True
+234,CHALLENGER,pmriGgoOft-v-wEsKpgnQ4r0K3EisK3aOC-iwi0SR46luVA,impupupu,671,378,330,False,False,True,False
+235,CHALLENGER,ZoZxSxA362nSgJqTr1lGIiAuWblg6saEf73OKPl4XmXfmDI,FPXzhaoAP4506303,855,418,299,True,False,False,False
+236,CHALLENGER,m6TPH34gf9hFXZqx84iZLN9xux5eQyCPcOgAzhuQ7d2c0sg,zyzyzyzyzy,1018,383,325,True,False,False,False
+237,CHALLENGER,7cQXDsmEkmnP6gGxaI9zJzBamAwkiWBZkbBEG0JFk0ZR1M4,Co24,734,501,454,False,False,False,False
+238,CHALLENGER,7SqOAQ2LcvZXcCXWXW7GAfa3SmRv6jl0dwLGhW0IGpZBEmU,Akashi Seijuro,670,343,289,False,False,True,False
+239,CHALLENGER,MrkhOO0oRDgmwIHWrmZOVty4Dyz1KaMhbhV6ZdQVIasNwtA,fengche,811,357,249,True,False,False,False
+240,CHALLENGER,nzJFXRPK0JWLiHDpjhAdpT-0DcwtiChr5LYgeIVu7MPWjjk,족제비1,786,430,393,True,False,False,False
+241,CHALLENGER,p-hOa6KJpA7Tb9SX2sL9mNJ4BlAh6furrZ1P0gImPud7fMM,아이러니,1009,275,214,False,False,False,False
+242,CHALLENGER,zy_Xr8QK1vzMgPPpj1TVmH6pQwYMtx6N-8DPboXq4aicbJs,리그오브래전드ll,694,921,877,True,False,False,False
+243,CHALLENGER,ogcb_VW1BB66ZSC3kKK0jgHRcBNizGOGxnIeq_XZCtpn_W8,black svvan,1040,559,479,True,False,False,False
+244,CHALLENGER,5elCo2Ux1zHLi6RQOZgg-1emzkklNCI_EALnkIlHUxCej6I,T1 제우스,1006,730,687,True,False,False,False
+245,CHALLENGER,TF0tzi5nUpAA5qIFRxU2ctFeUCg88paAfZ7bHIDCCuQ2amk,우붕스1,789,253,210,True,False,False,False
+246,CHALLENGER,6yYVUGPN3Kb9NtaT2c3KOQUADCk1e1qhMCY47WaS90OcCA,김구거,933,420,373,False,False,False,True
+247,CHALLENGER,yOkrWkAgV9ZdKV05ZTFQ-qfOLgceC31OZJmhJVNqZtVZLbM,칼과 창 방패,700,225,206,True,False,False,False
+248,CHALLENGER,l76EsxVPjfbnhB5FlqO8x4YvOQm8xK_NEx5A7AmV9GF8zdA,feng ji xu chui,940,311,245,True,False,False,False
+249,CHALLENGER,gnRv5MkI2H5J9gNvuGnGUlRzeF7rXscOLqIDIR9Duqe74kM,Aprox,995,218,159,False,False,False,False
+250,CHALLENGER,Ya95-x6pPHyimtg4xUbuJHydsoPwwEksawWN8ijAug_Bmg,땅우양유튜브구독,672,532,511,False,False,True,True
+251,CHALLENGER,NTTDAj_pQIq-qZrGPUcSOFHr0wcb94F0DL7Ak5ji-BLkKvs,lose jug,612,646,558,False,False,True,False
+252,CHALLENGER,qjWUsXBWyszYuh9aiIHgevTfDFkZ2XwBSTKe2vFdgcYZZA,탑 혜지,672,995,954,False,False,True,True
+253,CHALLENGER,j141XuBs6xgqftin2g4O1NLMhF_f97ObGaTewDNsrUxnZ-w,댕청잇,834,399,351,True,False,False,False
+254,CHALLENGER,4TWHPkY_6HT4OWsAVtub1uqlHepZaCNRQYf_IExvXSZicg,wsfw,682,416,380,False,False,True,False
+255,CHALLENGER,kwJe5XBQuaEc117YraxzatUDy3qZdH2g0BLFnV1RGcUS_Cs,MooJin777,671,423,395,False,False,True,False
+256,CHALLENGER,Ww-jF0JOFrBngyhyYRK7hL-jp-NEKg-woEyu49ufg73WGbU,이도류,886,517,468,True,False,False,False
+257,CHALLENGER,KQkZTSCDkIzeRPcJczQkw1gC30Of4Yv6AixDDNN2HrMWOw,엉덩국 갱승제로,750,269,262,False,False,False,False
+258,CHALLENGER,_tT625pHx50tjPWQ6iS26qByuHWUl8uyk3CT8g_PL45vmCw,vdsqwqerx,828,383,329,True,False,False,False
+259,CHALLENGER,i_8unRw5FWYrXyJRj4g9nBOhXIof7LdNeTXCAD0mFtADJSU,원딜 왕자 이채환,1278,247,172,True,False,False,True
+260,CHALLENGER,ymcr3ZxSwJYYBnap-eo96-fsgqnaVIKKkobVjyRtoV3FOlA,xunxunxun,945,420,312,True,False,False,False
+261,CHALLENGER,UiBJMIHn073RrFAj_-syRS81gM6zWZjhCuiUld_Vjym1XDo,huya 22785400,665,224,145,False,False,True,False
+262,CHALLENGER,5XGxqQZQA7Fc09HuXDb_XIzIde9rF3ZncnbiIrgOrBneVqc,mogubaby,917,203,91,True,False,False,False
+263,CHALLENGER,YAWJFMUborEhWqmds-k9qRr3NNHT2L8TlCM_XtWH_qW7FyU,I still remember,891,1068,959,True,False,False,False
+264,CHALLENGER,QRAMFGBhX7-yw530VjF-wGrG0WXJF1LRUW-q6DvbS5omkRQ,pjtL,778,710,658,False,False,False,False
+265,CHALLENGER,al46VXHpQpeJNutJSQlf9gI7vTOkUNmb_e9O0a5LQAiQG3I,TwitchTV 김망치,729,236,198,False,False,False,True
+266,CHALLENGER,2ekEm7W1p5OFFTSPLoxzCfuCfDFZ0jfhS-opXErxG7CkXJY,FA Racoon,655,319,286,False,False,True,False
+267,CHALLENGER,xotp7geohzx_TQJf7VLYE5GkoB4nee6FRS5uKYo_xvnwRag,SANDBOX Leo,1038,571,523,False,False,True,True
+268,CHALLENGER,crliiugVMkRM8q4C-icNL2ohwQnBkr6REb85W_wOTTR_sCg,환상동화 Pretty,661,134,94,False,False,True,True
+269,CHALLENGER,hR1owerEYub8XiLMvLFJmjFVdRGEU2_o4dqW1FPrB-WOY4A,SR99,700,667,619,False,False,True,False
+270,CHALLENGER,GkPRJOm7FpTyRiO3SVlZHHw9DW7xi30v51T0zZ8QRwrZj4E,카게게,1022,499,440,False,False,False,False
+271,CHALLENGER,UnDk3W9L9dGlvKvVfi49Q04C88WNXbirrJnpI-KCQ4mVfH2G,SKT T1 Windy,695,139,37,False,False,False,False
+272,CHALLENGER,gsT5RNyToUyHV6UpnFT0RuJTtxbaQyJrDtsj4bJPRivSkZ8,전지적테디시점,706,324,301,False,False,False,False
+273,CHALLENGER,Oi9D06GISgvBoj-QhpLqxf7pbA_8-5w0MRB3HmWDAGODBcs,fabaju,674,653,633,False,False,False,False
+274,CHALLENGER,x-5JvSbTnWaRHAOkv1Psx8VIEyzTiAcjjOmUZfsPPlnyjGg,Single beltk,646,220,117,False,False,True,False
+275,CHALLENGER,opKt03zPpketu6IprWtZkqEau0fExNq_ZzgiRlVcY-SqRWE,SANDBOX OnFleek,798,404,371,True,False,False,False
+276,CHALLENGER,_i49JFUy3u3VaNYdvcNlC7YZCGXrg7NIn44g-A_i6V8ctZE,아라가키 유이,807,301,259,True,False,False,True
+277,CHALLENGER,SfIM__7gu9QtbQ7zpBUG7fLRaJyBEhsJTI9V6ViRYIqHqRo,DRX Keria,783,454,427,False,False,False,False
+278,CHALLENGER,mGGU-CEAo1ZWbuSfO89d18GGlWw7Ip_5Kou0Qg17IeLN8g,Azhy,662,421,390,False,False,True,True
+279,CHALLENGER,Pg49ifBOUYl93d_ZGrf5O91B_xYqyls0qBYpIn2cG7MH3hw,Brush Eye,707,458,421,False,False,True,True
+280,CHALLENGER,_fflas_AVtCQjrzEGPLJxZiW_kVIbn3VvbFxUSUyPD-zCE4,Jad1,666,397,348,False,False,False,False
+281,CHALLENGER,pwAuFDRBy2L0qJjEObmwAmm_NfXS4vkDKoRVs7E3ZBP17A,탑나라 룰루공주,628,267,211,False,False,True,False
+282,CHALLENGER,dz0LEJSyrzR47PPznfb8207krnkC6PM84Z0MqfNJJN144Jo,미북이,924,543,496,False,False,False,False
+283,CHALLENGER,u8BQv0pfwicYjqJx2jkIX3axItxyvHsiOYqYvys8SG8SjKk,EM Envyy,846,424,369,False,False,True,False
+284,CHALLENGER,a-XrS5HYeO1lhNkPIZmdFf7-1j7M_HQ6m7LA8UdHWOtU5tU,Laht,935,444,434,True,False,False,True
+285,CHALLENGER,ivQKJ6Np-dNb1e5AqZQqhUGTRymxne7t5w92NaG42vG30gE,퍼플팀 죠앤,779,149,97,False,False,False,True
+286,CHALLENGER,TqyPOKdf0PjXRjV_3c6CvR2wb0atEGHH7PNERefdRbmpkUw,sdasf dfghj,651,582,571,False,False,False,False
+287,CHALLENGER,4zJqVbq0hxQ7GJsjV_Osj-Cpnx12SrHORCa9lzJh9LqLDH0,T1 BurdoI,1584,280,231,True,False,False,True
+288,CHALLENGER,Q-WgIlPDL3Z-NzErpnNjaHSPaQEhmIyvZ9IxThwKe6Vh2e0,크로꼬,894,366,315,True,False,False,False
+289,CHALLENGER,e_aEYkfEuVJktQyoepp4xvcaeRILx1CQ5Ys1bPHFr5MlJg4,qewsdaxfv,773,236,198,False,False,False,False
+290,CHALLENGER,JkIdNnsCAvHV0h-KtsHmDoovmkY2DsufLf97QER-kdYf2nw,mei you dai long,707,201,163,False,False,False,False
+291,CHALLENGER,7ARFWJ7I370n92NuPheKsa0psf3PD0X3PHJTGd6lA4KtmAE,Babe G,1054,251,164,True,False,False,True
+292,CHALLENGER,T51749jsNZDZoWaI6Pv-sjEGhpRQ8E4Sl0S5S9gec22v-pk,SANDBOX Kabbie,887,414,371,True,False,False,False
+293,CHALLENGER,UoJxgYsPx3JvGlWi8Y8pm4iW1h4_RbJ4w41ucfbb6scF46k, Qu1et game,713,712,649,False,False,True,False
+294,CHALLENGER,9mhLvKryeoujVDxZgzf7cjYR5reNQZzr40_-y786DGPR6eQ,쭌 베,1043,239,186,True,False,False,False
+295,CHALLENGER,lIYRPsQKrt3AfUoL3-rPIQLmiCM2HnOFs6jvRnerpmaa06I,사 용 수,1073,283,228,True,False,False,False
+296,CHALLENGER,kpImpsq7-jjq2o94Yc0Z7c_iQ8m1CTQVxqNsmBmQ-6-6EzE,서프라이즈데이,763,104,65,False,False,False,False
+297,CHALLENGER,OAV-XZDRDp5dDxX8dfEyZ-Im4IZe6ilvWaFsw9E3gQarBp0,YukiJudaii,785,219,167,False,False,False,False
+298,CHALLENGER,Gd1zCg_GDZ-p2R8CafbSdkvxULi_lb_b1uC5gsI2jMxAHv4,hearer,690,113,73,False,False,False,False
+299,CHALLENGER,-kiw-WN6FT4mP_YUdN_lCAb64iQYDEy3lMIZq15y0T9CjmE,정점파이크2,681,199,110,False,False,False,True
